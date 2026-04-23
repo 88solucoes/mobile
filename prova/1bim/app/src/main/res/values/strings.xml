@@ -1,0 +1,63 @@
+<resources>
+
+    <string name="app_name">AVA1</string>
+
+    <!-- Pergunta 1 -->
+    <string name="pergunta_1">A qual país pertence essa bandeira?</string>
+    <string name="alt_uganda">Uganda</string>
+    <string name="bandeira_uganda">Bandeira da Uganda</string>
+
+    <!-- Alternativas -->
+    <string name="alt_dominica">Dominica</string>
+    <string name="alt_wakanda">Wakanda</string>
+    <string name="alt_haiti">Haiti</string>
+
+    <!-- Botão -->
+    <string name="btn_proximo">Próximo</string>
+
+
+    <!-- Pergunta 2 -->
+    <string name="pergunta_2">A qual país pertence essa bandeira?</string>
+    <string name="alt_brasil">Brasil</string>
+    <string name="bandeira_brasil">Bandeira do Brasil</string>
+
+    <!-- Alternativas -->
+    <string name="alt_samaria">Samaria</string>
+    <string name="alt_venezuela">Venezuela</string>
+    <string name="alt_marrocos">Marrocos</string>
+
+    <!-- Pergunta 3 -->
+    <string name="pergunta_3">A qual país pertence essa bandeira?</string>
+
+    <!-- Alternativas Pergunta 3 -->
+    <string name="alt_andorra">Andorra</string>
+    <string name="alt_guatemala">Guatemala</string>
+    <string name="alt_uzbequistao">Uzbequistão</string>
+    <string name="alt_republica_dominicana">República Dominicana</string>
+
+    <string name="bandeira_andorra">Bandeira de Andorra</string>
+
+    <!-- Pergunta 4 -->
+    <string name="pergunta_4">A qual país pertence essa bandeira?</string>
+
+    <!-- Alternativas Pergunta 4 -->
+    <string name="alt_chile">Chile</string>
+    <string name="alt_noruega">Noruega</string>
+    <string name="alt_japao_imperial">Japão (Imperial)</string>
+    <string name="alt_australia">Austrália</string>
+
+    <string name="bandeira_japao_imperial">Bandeira do Japão (Imperial)</string>
+
+    <!-- Resultado -->
+    <string name="resultado_padrao">Resultado</string>
+
+    <!-- Mensagens de Desempenho -->
+    <string name="msg_mestre">Você é um verdadeiro mestre da Vexilologia!</string>
+    <string name="msg_intermediario">Você conhece sobre bandeiras, mas ainda pode melhorar.</string>
+    <string name="msg_iniciante">Você não é versado nas artes da Vexilologia.</string>
+    <string name="msg_ruim">Você PARA o ensino fundamental! Estude um pouco mais.</string>
+
+    <string name="btn_finalizar">Finalizar</string>
+
+
+</resources>
